@@ -8,6 +8,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
-- [ ] Introduce myself to the world
-*Want this text to be Italic*
-**Want this one to be Bold**
+- [ ] Introduce myself to the world, 
+- 1 *Want this text to be Italic*
+- 2  **Want this one to be Bold**
